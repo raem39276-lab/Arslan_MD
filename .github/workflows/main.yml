@@ -1,0 +1,18 @@
+# 🎯 ULTRA PRO MAX INSTALLATION GUIDE
+
+# 1️⃣ CLONE REPOSITORY
+git clone https://github.com/Arslan-MD/Arslan_MD.git
+
+# 2️⃣ ENTER DIRECTORY  
+cd Arslan_MD
+
+# 3️⃣ INSTALL DEPENDENCIES
+npm install
+
+# 4️⃣ SESSION SETUP
+# Add your session credentials in settings file
+
+# 5️⃣ START THE BOT
+npm start
+
+# 🎉 BOT IS READY TO ROCK!
